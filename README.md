@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kumar Utkarsh</h1>
 <h3 align="center">
-  Full stack Dev with barely 5 YoE. Currently holding a Master's degree in Data Science from the University at Buffalo, NY. I have experience in both front-end and back-end development and have been contributing as a Full Stack Developer at Saayam-for-All, building and optimizing features for the web application. I developed the LinkedIn Job Search Time Filter Extension, which allows users to filter the most recent job postings, enhancing job search efficiency. Also worked as Software Engineer at Green Letter Technologies, contributing to the development and optimization of a web-based application.<br />
-  Programming Languages: Python, TypeScript, JavaScript, HTML5, CSS3, MongoDB<br />
-  Technologies: Next.js, React, Tailwind CSS, Redux, RASA, RESTful APIs<br />
-  Tools: Git, GitHub, Google Cloud Platform (GCP), Tableau, IntelliJ, Anaconda, Apache Tomcat<br />
-  Certification: AWS AI Practitioner from Amazon Web Services Training and Certification
+  <span style="display: inline-block; text-align: left;">
+    Full stack Dev with barely 5 YoE. Currently holding a Master's degree in Data Science from the University at Buffalo, NY. I have experience in both front-end and back-end development and have been contributing as a Full Stack Developer at Saayam-for-All, building and optimizing features for the web application. I developed the LinkedIn Job Search Time Filter Extension, which allows users to filter the most recent job postings, enhancing job search efficiency. Also worked as Software Engineer at Green Letter Technologies, contributing to the development and optimization of a web-based application.<br /><br />
+    <strong>Programming Languages:</strong> Python, TypeScript, JavaScript, HTML5, CSS3, MongoDB<br />
+    <strong>Technologies:</strong> Next.js, React, Tailwind CSS, Redux, RASA, RESTful APIs<br />
+    <strong>Tools:</strong> Git, GitHub, Google Cloud Platform (GCP), Tableau, IntelliJ, Anaconda, Apache Tomcat<br />
+    <strong>Certification:</strong> AWS AI Practitioner from Amazon Web Services Training and Certification
+  </span>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exzoyoloatwrk1&label=Profile%20views&color=0e75b6&style=flat" alt="exzoyoloatwrk1" /> </p>
